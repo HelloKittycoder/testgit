@@ -2,3 +2,5 @@ add 1.txt
 add 1.txt hehe
 add by new feature branch
 add by bugfix branch
+
+testBranch update 1.txt
